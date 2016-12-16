@@ -2055,7 +2055,7 @@
 	"displayValue": "mainSeqProto",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_teal",
-	"lastBuiltDate": 503559330
+	"lastBuiltDate": 503578387
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -3382,7 +3382,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 1,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
